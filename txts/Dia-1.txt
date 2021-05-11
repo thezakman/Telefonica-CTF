@@ -16,7 +16,7 @@ Dia 1 - Introdução.txt - 08/05/2021
 # (Espaço de Trabalho / Ambiente) 
 ---------------------------------
 
-- Instalar WSL (Windows Subsystem for Linux) ou VM (Maquina Virtual) de preferencia o Kali Linux:
+- Instalar WSL (Windows Subsystem for Linux) ou VM (Maquina Virtual) de preferência o Kali Linux:
 https://www.kali.org/downloads/
 
 Eu particularmente gosto de usar o Virtual Box: 
@@ -61,7 +61,7 @@ https://www.hackthissite.org/
 https://overthewire.org/wargames/
 
 
-- Nacional:
+- Nacionais:
 
 https://capturetheflag.com.br/login (eu não gosto desse aqui, muito sem pé nem cabeça)
 https://hackaflag.com.br/
